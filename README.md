@@ -18,4 +18,15 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AbhiNamdev025&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+
+## 📬 Let's Connect
+
+- 📧 Email: [abhinamdev@example.com](mailto:abhinamdev@example.com)
+- 🏢 Training at: [Codroid Hub](https://codroidhub.in) _(add your referral link if any)_
+- 🌐 Portfolio: Coming Soon!
+- 💬 Open to collaborations, internships, and learning projects
+
+---
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
