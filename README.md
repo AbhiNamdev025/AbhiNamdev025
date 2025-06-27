@@ -22,8 +22,8 @@
 
 ## 📬 Let's Connect
 
-- 📧 Email: [abhinamdev@example.com](mailto:abhinamdev@example.com)
-- 🏢 Training at: [Codroid Hub](https://codroidhub.in) _(add your referral link if any)_
+- 📧 Email: [namdevabhi025@gmail.com](mailto:namdevabhi025@gmail.com)
+- 🏢 Training at: [Codroid Hub](https://codroidhub.in) 
 - 🌐 Portfolio: Coming Soon!
 - 💬 Open to collaborations, internships, and learning projects
 
