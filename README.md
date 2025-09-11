@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Final semester student of Bachelor of Computer Applications (BCA)<br>- 🌱 Learning web development through training at Codroid Hub<br>- ⚛️ Working with HTML, CSS, JavaScript, and React<br>- 🎨 Love creating clean, responsive UI using Tailwind CSS<br>
+🎓  Bachelor of Computer Applications (BCA)<br>- 🌱 Learning web development through training at Codroid Hub<br>- ⚛️ Working with HTML, CSS, JavaScript, and React<br>- 🎨 Love creating clean, responsive UI using Tailwind CSS<br>
 
 
 ## 🌐 Socials:
