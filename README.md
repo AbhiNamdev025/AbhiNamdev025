@@ -25,16 +25,18 @@
 > _Stats dynamically updated in real-time_
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AbhiNamdev025&theme=dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&line_height=25" alt="Abhi's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AbhiNamdev025&theme=dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&line_height=25" alt="Abhi's GitHub Stats" style="margin-bottom: 10px;" />
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiNamdev025&theme=dark&hide_border=true&layout=compact&langs_count=6" alt="Abhi's Top Languages" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiNamdev025&theme=dark&hide_border=true&layout=compact&langs_count=6" alt="Abhi's Top Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiNamdev025&theme=dark&hide_border=true" alt="Abhi's GitHub Streaks" />
 </p>
 
 ---
 
 ### 👀 Profile Views
 <p align="center">
-    <img src="https://profile-counter.glitch.me/AbhiNamdev025/count.svg" alt="Visitor Count"/>
+    <img src="https://komarev.com/ghpvc/?username=AbhiNamdev025&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Visitor Count"/>
 </p>
