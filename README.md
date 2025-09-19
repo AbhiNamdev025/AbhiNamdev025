@@ -28,22 +28,13 @@
     <img src="https://github-readme-stats.vercel.app/api?username=AbhiNamdev025&theme=dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&line_height=25" alt="Abhi's GitHub Stats" />
 </p>
 
-
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiNamdev025&theme=dark&hide_border=true&layout=compact&langs_count=6" alt="Abhi's Top Languages" />
 </p>
 
 ---
 
-### 💬 Random Dev Quote
+### 👀 Profile Views
 <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
-
----
-
-<p align="center">
-    <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=AbhiNamdev025&icon=1&color=0" alt="Visitor Count"/>
-    </a>
+    <img src="https://profile-counter.glitch.me/AbhiNamdev025/count.svg" alt="Visitor Count"/>
 </p>
