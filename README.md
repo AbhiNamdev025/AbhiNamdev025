@@ -22,7 +22,7 @@
 
 ---
 
-## 📈 My GitHub Activity
+## 📈 My GitHub Activities
 > _Stats dynamically updated in real-time_
 
 <p align="center">
