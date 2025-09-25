@@ -23,7 +23,7 @@
 ---
 
 ## 📈 My GitHub Activities
-> _Stats dynamically updated in real-time_
+
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=AbhiNamdev025&theme=dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&line_height=25" alt="Abhi's GitHub Stats" style="margin-bottom: 10px;" />
@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiNamdev025&theme=dark&hide_border=false" alt="Abhi's GitHub Streaks" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiNamdev025&theme=dark" alt="Abhi's GitHub Streaks" />
 </p>
 
 ---
