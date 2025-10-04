@@ -1,4 +1,4 @@
-# 👋 Hello there! I'm Abhi Namdev
+# 👋 Hello I'm Abhi Namdev
 
 ## 💡 About Me
 - 🎓 Recently graduated with a **Bachelor of Computer Applications (BCA)**.
