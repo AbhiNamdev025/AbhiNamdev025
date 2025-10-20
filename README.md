@@ -22,7 +22,7 @@
 
 ---
 
-## 📈 My GitHub Activities
+## 📈 My Git-Hub Activities
 
 
 <p align="center">
