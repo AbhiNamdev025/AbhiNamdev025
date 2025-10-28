@@ -4,7 +4,7 @@
 - 🎓 Recently graduated with a **Bachelor of Computer Applications (BCA)**.
 - 🌱 Currently diving deep into **Web Development** training at **Codroid Hub**.
 - ⚛️ My core tech focus is the modern web: **HTML**, **CSS**, **JavaScript**, **Node** , **Express**, **MongoDB**and **React**.
-- 🎨 Passionate about building **clean, responsive UI** components.
+- 🎨 Passionate about building **clean, responsive UI** components , Pages.
 - 🚀 Always looking to learn and contribute to meaningful projects.
 
 ## 🤝 Let's Connect
