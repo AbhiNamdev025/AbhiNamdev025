@@ -26,7 +26,7 @@
 
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AbhiNamdev025&theme=dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&line_height=25" alt="Abhi's GitHub Stats" style="margin-bottom: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AbhiNamdev025&theme=dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&line_height=25" alt="Abhi's GitHub Stats" style="margin-bottom: 11px;" />
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiNamdev025&theme=dark&hide_border=true&layout=compact&langs_count=6" alt="Abhi's Top Languages" />
 </p>
